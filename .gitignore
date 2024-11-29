@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+
+# Python virtual environment
+NNvenv/
+
+# VSCode history
+.history/
+
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# IDE configuration
+*.vscode/
+
+# Logs
+*.log
+
+#Datasets DOG & CAT
+DOG & CAT NN/datasets/
